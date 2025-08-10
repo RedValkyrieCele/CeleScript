@@ -38,3 +38,4 @@ Entries display as a row and are comprised of:
 
 \[Types]: Dropdown that permits selection of one of the 18 canonical Pokemon Types. Two dropdowns are provided. Order of Types between the dropdowns are not required to match target Pokemon/Species as long as one or both are present. Exact match only. Dropdown containing unselected Type is ignored.  
 
+TODO: Finish this doc lol
