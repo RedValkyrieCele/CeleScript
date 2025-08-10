@@ -1,7 +1,8 @@
 # CeleScript: Shelter Selector  
 (or Sniffer or Searcher idk I just want it to be CSSS lol)  
 
-Create a button that brings up a dialog to allow users to \[Add Entry] and select \[Highlight Color].  
+Creates a button on Shelter page left of \[Reload] that brings up a dialog to allow users to \[Add Entry] and select \[Highlight Color].  
+
 Entries display as a row and are comprised of:  
 \[Species],  
 \[Natures],   
